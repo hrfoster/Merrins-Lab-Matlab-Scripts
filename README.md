@@ -1,2 +1,2 @@
-# Merrins-Lab-Matlab-Scripts
+# Merrins-Lab-Scripts
 Code
